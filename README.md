@@ -1,2 +1,2 @@
-# SQA_Batch
-Testing area for QA Batch 15
+# SQA_Batch Development Branch
+Cording for inventry management
